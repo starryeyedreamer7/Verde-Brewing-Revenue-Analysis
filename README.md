@@ -2,15 +2,15 @@
 
 
 
-The Problem
+THE PROBLEM
 
 Verde's sales grew about 40% in 12-18 months, but the owners couldn't say why. Growth then dipped, including the first year-over-year monthly decline in three years, before  recovering. They suspected tourism, gas prices, wildfire disruption, and menu changes. Our job was to find out which factors actually drive sales.
 
-The Challenge
+THE CHALLENGE
 
 The Square POS exports had duplicate items, legacy names, and inconsistent categories. The same product appeared under multiple labels as the menu evolved. We standardized item names and confirmed ambiguous items with the client so trends reflected real customer behavior.
 
-Approach
+APPROACH
 
 
 
@@ -34,13 +34,12 @@ Built food-and-beer pairing heatmaps with pivot tables and Power Query
 
 Met weekly with the owner to refine scope, and toured the brewery to understand operations
 
-My Role
 
 Transaction extraction: Pulled and prepared POS data for peak periods and events, such as trivia nights, so the team could analyze demand spikes.
 
 Customer analytics: Calculated revenue and average purchase value by recency segment, and ranked top customers by lifetime spend.
 
-Key Findings
+KEY FINDINGS
 
 
 
