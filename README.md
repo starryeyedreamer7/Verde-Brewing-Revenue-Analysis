@@ -55,7 +55,7 @@ Tourism explains seasonality, not growth. Sales and visitor counts both peak in
 
 Menu leaders are clear. Pulled pork made up about 38% of October sandwich sales, and Gold Buckle anchored the most common food-and-beer pairings.
 
-Recommendations Made
+RECOMMENDATIONS MADE
 
 
 
